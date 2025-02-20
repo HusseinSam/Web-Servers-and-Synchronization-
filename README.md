@@ -1,5 +1,5 @@
 # Web-Servers-and-Synchronization-
-Implementation for server/client application using multithreading developed in C++.
+Implementation for server/client application using multithreading developed in C.
 
 describtion:  developing a real, working web server.
 in this project,  im provided with the code for a very basic web server, This basic web
